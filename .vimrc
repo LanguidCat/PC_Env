@@ -26,7 +26,7 @@ filetype plugin indent on
 " :PluginSearch foo - foo에 대해 검색; `!`를 덧붙여 로컬 캐시를 새로고침하십시오
 " :PluginClean      - 사용하지 않는 플러그인의 삭제를 확인; `!`를 붙여 자동 삭제를 승인하십시오
 
-nmap <F5> :NERDTreeToggle<CR>    " NERDTree toggle key setting
+nmap <F5> :NERDTreeToggle<CR>    " NERDTree toggle F5 key setting
 
 
 "Theme
