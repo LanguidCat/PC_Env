@@ -38,4 +38,4 @@
 
 # Investment
 - [POP DTS](https://www.samsungpop.com/?MENU_CODE=M1454053749140) : 삼성증권 HTS
-- [Binance](https://www.binance.com/en/download) : 가상자산 HT
+- [Binance](https://www.binance.com/en/download) : 가상자산 HTS
