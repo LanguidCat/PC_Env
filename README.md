@@ -29,6 +29,7 @@
 - [Ridibooks](https://ridibooks.com/support/app/download) : E-Book
 
 # Utility
+- [WinAuth](https://winauth.github.io/winauth/download.html) : Open Source OTP
 - [Notion](https://www.notion.so/ko-kr/desktop) : Notepad
 - [Bandizip](https://kr.bandisoft.com/bandizip/) : File Compression Software
 - [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) : To check my cpu temperature
