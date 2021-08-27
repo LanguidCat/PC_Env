@@ -1,4 +1,4 @@
-Basic Setting
+" Basic Setting
 set nu    " Show row number 
 vmap <C-c> y:new ~/.vimbuffer<CR>VGp:x<CR> \| :!cat ~/.vimbuffer \| clip.exe <CR><CR>
 map <C-v> :r ~/.vimbuffer<CR>
