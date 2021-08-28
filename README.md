@@ -20,7 +20,7 @@
 - Spotify
 
 ### Utility
-- Notion
+- [notion-linux](https://github.com/davidbailey00/notion-linux)
 - fcitx
 - Playonlinux
 
