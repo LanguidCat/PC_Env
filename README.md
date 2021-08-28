@@ -18,6 +18,7 @@
 ### Utility
 - Notion
 - UIM 
+- Playonlinux
 
 # Widows
 ### Development
