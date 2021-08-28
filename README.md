@@ -5,9 +5,12 @@
 ### Development
 - VSCode
 - IntelliJ
+- Android Studio
 - Git
 - Vim
 - gcc
+- JDK
+- Zsh
 
 ### Social
 - Discord
@@ -22,12 +25,6 @@
 - Playonlinux
 
 # Widows
-### Development
-- [JetBrains](https://www.jetbrains.com/ko-kr/)
-- [Github Desktop](https://desktop.github.com/)
-- [VSCode](https://code.visualstudio.com/)
-- [Sublime Text](https://www.sublimetext.com/) 
-- [WSL2](https://languidcat.tistory.com/136?category=458632) 
 
 ### Social
 - [Discord](https://discord.com/) 
