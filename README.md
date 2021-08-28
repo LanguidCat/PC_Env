@@ -4,7 +4,7 @@
 # Ubuntu
 ### Development
 - VSCode
-- IntelliJ
+- IntelliJ IDEA
 - Android Studio
 - Git
 - Vim
