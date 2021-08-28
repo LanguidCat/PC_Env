@@ -7,6 +7,7 @@
 - IntelliJ
 - Git
 - Vim
+- gcc
 
 ### Social
 - Discord
