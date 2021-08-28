@@ -17,7 +17,7 @@
 
 ### Utility
 - Notion
-- UIM 
+- fcitx
 - Playonlinux
 
 # Widows
