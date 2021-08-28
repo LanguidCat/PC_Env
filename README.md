@@ -1,4 +1,4 @@
-# ⚙️ PC_Env
+# ⚙️PC_Env
 ### This repo is created to quickly set up my personal computing environment
 
 # Ubuntu
