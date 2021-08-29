@@ -14,6 +14,7 @@
 
 ### Social
 - Discord
+- Slack
 
 ### Media
 - VLC Player
@@ -29,6 +30,7 @@
 - [Discord](https://discord.com/) 
 - [Zoom](https://zoom.us/) 
 - [Kakaotalk](https://www.kakaocorp.com/page/service/service/KakaoTalk)
+- [Slack](https://slack.com/intl/ko-kr/downloads/windows)
 
 ### Media
 - [AIMP](https://www.aimp.ru/)
