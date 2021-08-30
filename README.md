@@ -26,7 +26,7 @@
 - Office365WebDesktop
 - Playonlinux
 - net-tools
-- 
+- fcitx-hangul
 
 # Widows
 
