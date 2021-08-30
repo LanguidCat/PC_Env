@@ -19,9 +19,9 @@
 ### Media
 - VLC Player
 - Spotify
+- Foobar2000
 
 ### Utility
-- fcitx
 - Playonlinux
 
 # Widows
