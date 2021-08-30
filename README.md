@@ -15,6 +15,7 @@
 ### Social
 - Discord
 - Slack
+- Zoom
 
 ### Media
 - VLC Player
@@ -22,7 +23,10 @@
 - Foobar2000
 
 ### Utility
+- Office365WebDesktop
 - Playonlinux
+- net-tools
+- 
 
 # Widows
 
