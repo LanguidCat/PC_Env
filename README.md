@@ -23,7 +23,6 @@
 - Foobar2000
 
 ### Utility
-- Office365WebDesktop
 - Playonlinux
 - net-tools
 - fcitx-hangul
