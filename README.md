@@ -26,7 +26,6 @@
 ### Utility
 - wine
 - tlp
-- 
 - fcitx-hangul
 - gnome-tweak-tool
 - RiseupVPN
