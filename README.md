@@ -24,7 +24,7 @@
 - Foobar2000
 
 ### Utility
-- Playonlinux
+- wine
 - net-tools
 - fcitx-hangul
 - gnome-tweak-tool
