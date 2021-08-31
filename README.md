@@ -28,6 +28,7 @@
 - net-tools
 - fcitx-hangul
 - gnome-tweak-tool
+- RiseupVPN
 
 # Widows
 
