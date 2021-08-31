@@ -27,6 +27,7 @@
 - Playonlinux
 - net-tools
 - fcitx-hangul
+- gnome-tweak-tool
 
 # Widows
 
