@@ -9,8 +9,8 @@
 - Git
 - Vim
 - gcc
-- OpenJDK
-- Python
+- OpenJDK11
+- Python3
 - Zsh
 
 ### Social
