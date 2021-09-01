@@ -29,6 +29,7 @@
 - fcitx-hangul
 - gnome-tweak-tool
 - RiseupVPN
+- tldr
 
 # Widows
 
